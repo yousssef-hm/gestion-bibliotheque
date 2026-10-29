@@ -26,3 +26,6 @@ Thumbs.db
 
 # Journaux
 *.log
+
+# Fichiers de configuration locale (secrets)
+.env
