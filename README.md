@@ -14,3 +14,11 @@ Application Python permettant de gérer un catalogue de livres.
 
 \- Hmama Youssef
 
+
+
+\## Exécution
+
+
+
+python -m bibliotheque.main
+
