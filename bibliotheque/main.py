@@ -9,7 +9,7 @@ def main():
     biblio.ajouter(Livre("978-2-07-036002-4", "L'Étranger", "Albert Camus"))
     biblio.ajouter(Livre("978-2-07-036822-8", "La Peste", "Albert Camus"))
 
-    print("=== Bibliothèque (beta) ===")
+    print("=== Bibliothèque ===")
     for livre in biblio.livres:
         print(f" - {livre}")
 
