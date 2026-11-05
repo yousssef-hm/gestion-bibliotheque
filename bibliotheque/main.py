@@ -10,6 +10,7 @@ def main():
     biblio.ajouter(Livre("978-2-07-036822-8", "La Peste", "Albert Camus"))
 
     print("=== Bibliothèque ===")
+    print(f"{len(biblio)} livres au catalogue")
     for livre in biblio.livres:
         print(f" - {livre}")
 
