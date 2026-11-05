@@ -22,3 +22,6 @@ Application Python permettant de gérer un catalogue de livres.
 
 python -m bibliotheque.main
 
+
+## Fonctionnalités
+- Ajout et recherche de livres
