@@ -25,6 +25,3 @@ python -m bibliotheque.main
 
 ## Fonctionnalités
 - Ajout et recherche de livres
-
-## Fonctionnalités
-- Ajout et recherche de livres
