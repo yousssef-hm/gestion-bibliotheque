@@ -28,4 +28,5 @@ Thumbs.db
 *.log
 
 # Fichiers de configuration locale (secrets)
-.env
+.envcatalogue.json
+
