@@ -34,7 +34,7 @@ class Bibliotheque:
     def trier_par_titre(self, inverse=False):
         return sorted(self._livres, key=lambda l: l.titre, reverse=inverse)
 
-        def supprimer(self, isbn):
+    def supprimer(self, isbn):
         """Supprime le livre d'ISBN donné. Retourne True si un livre a été supprimé."""
         livre = self.rechercher_par_isbn(isbn)
         if livre is None:
