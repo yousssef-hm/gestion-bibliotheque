@@ -27,7 +27,12 @@ python -m bibliotheque.main
 ## Fonctionnalités
 - Ajout et recherche de livres
 - Recherche par titre, auteur et ISBN
+
+- Suppression d'un livre par ISBN
+
 - Sauvegarde et chargement du catalogue au format JSON
+
+
 
 ## Contribuer
 
